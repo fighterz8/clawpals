@@ -21,7 +21,7 @@
     "avatar:pipeline": "python3 scripts/run_avatar_pipeline.py"
   },
   "dependencies": {
-    "@hono/node-server": "^2.0.1",
+    "@hono/node-server": "^2.0.10",
     "@vitejs/plugin-react": "^4.3.4",
     "hono": "^4.12.16",
     "react": "^19.1.0",
